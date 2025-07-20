@@ -36,6 +36,13 @@ Trabalho com consistência, clareza e propósito. Cada linha de código, planilh
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:myrelle.torres17@gmail.com)
 
 ---
+---
+
+### 📊 GitHub Stats
+
+![Myrelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mytorres&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mytorres&layout=compact&theme=radical)
 
 🧠 *Better than yesterday*
 
