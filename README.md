@@ -48,7 +48,7 @@ Consolidação de planilhas de traduções (2022–2025) com tratamento em Pytho
 ---
 
 **Em constante evolução**
-- Atualmente aprofundando conhecimentos em:
+Atualmente aprofundando conhecimentos em:
 - Modelagem de dados em ambientes de Data Warehouse / Data Lake
 - Machine Learning aplicado a problemas de negócio
 - Spark/PySpark para processamento em larga escala
