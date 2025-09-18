@@ -1,24 +1,20 @@
 # Myrelle Torres
 
-🎯 **Data Analyst | Business Intelligence | SQL | Power BI | Python | Excel Avançado | ETL | Storytelling com Dados**  
+🎯 **Analista de Dados | Business Intelligence**  
 📍 São Paulo, Brasil  
-💡 Transformando dados brutos em decisões estratégicas e insights acionáveis.
-
 ---
 
-Sou **Analista de Dados** formada em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Pós-Graduação em Análise de Dados pela Data Science Academy (DSA)**.  
-Tenho experiência na construção de **dashboards interativos**, **modelagem de dados** e **análise estatística** voltada para a solução de problemas reais de negócio.  
-Minha primeira formação em **comunicação e linguística** potencializa minha capacidade de **storytelling com dados**, tornando relatórios e apresentações mais claros, persuasivos e estratégicos.  
+Sou profissional de Dados e Business Intelligence, formada em Análise e Desenvolvimento de Sistemas e atualmente pós-graduanda em Análise de Dados.
+Tenho experiência prática em Python, SQL, ETL/ELT e Power BI, além de atuação com dashboards, governança de dados, automação de processos e metodologias ágeis. Meu objetivo é transformar dados em insights que apoiem decisões estratégicas e gerem impacto real no negócio.
 
 Minhas habilidades combinam **pensamento analítico** e **design de informação**, aplicados desde a coleta e tratamento de dados até a entrega final de insights para tomada de decisão.  
 
 Atualmente, domino e utilizo:  
-- **SQL** para extração e manipulação de dados  
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** para análise exploratória e automação  
-- **Power BI** para desenvolvimento de painéis dinâmicos com DAX e Power Query  
-- **Excel Avançado** para modelagem, análise e dashboards rápidos  
-- **ETL e limpeza de dados** para garantir qualidade e consistência  
-- **Controle de versão com Git e GitHub** para gestão de projetos e colaboração  
+**Programação e Dados**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL, MySQL, SQL Server, Oracle)
+**Business Intelligence**: Power BI (DAX, Power Query, OLAP, KPIs), Tableau, Looker Studio, Metabase
+**Engenharia de Dados**: ETL/ELT, Data Warehouse, Data Lake, BigQuery, Spark/PySpark, Airflow
+**Automação e Integrações**: Power Automate, APIs, ERP, CRM (Salesforce)
+**Outros**: Excel Avançado (Power Query, Tabelas Dinâmicas, VBA, Power Pivot), Git/GitHub, Scrum, Kanban
 
 ---
 
@@ -36,10 +32,29 @@ Atualmente, domino e utilizo:
 
 ### 📊 Projetos em Destaque  
 
-- 📈 **Análise de Campanhas de Marketing com Power BI** – Dashboard interativo para segmentação de clientes e análise de retorno de campanhas  
+**Análise de Vendas em E-commerce**
+Projeto de análise exploratória de dados simulados de vendas com Python e Power BI, gerando insights sobre estoque, marketing e sazonalidade.
 
+**Password Generator**
+Gerador de senhas seguras com parâmetros configuráveis.
+
+**Análise de Traduções (2022–2025)**
+Consolidação de planilhas de traduções (2022–2025) com tratamento em Python e carregamento em PostgreSQL para consultas SQL e análises de produtividade.
+
++ Veja meu portfólio completo [!(https://github.com/myhtorres/Portfolio)]
+  
 ---
 
+**Em constante evolução**
+- Atualmente aprofundando conhecimentos em:
+- Modelagem de dados em ambientes de Data Warehouse / Data Lake
+- Machine Learning aplicado a problemas de negócio
+- Spark/PySpark para processamento em larga escala
+- Inteligência Artificial aplicada à análise de dados
+- RAG (Retrieval-Augmented Generation) e integração de modelos de linguagem com dados empresariais
+- Automação de processos analíticos com IA e pipelines inteligentes
+
+---
 ### 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myrelle-carreira-dados/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:myrelle.torres17@gmail.com)  
