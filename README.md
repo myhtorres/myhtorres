@@ -1,7 +1,10 @@
-# Myrelle Torres
+<h1 align="center">Myrelle Torres</h1>
 
-🎯 **Analista de Dados | Business Intelligence**  
-📍 São Paulo, Brasil  
+<p align="center">
+🎯 Analista de Dados | Business Intelligence <br>
+📍 São Paulo, Brasil
+</p>
+
 ---
 
 <p align="justify">
