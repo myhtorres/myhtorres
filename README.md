@@ -33,7 +33,7 @@ Tenho experiência prática em Python, SQL, ETL/ELT e Power BI, além de atuaç�
 
 - **Análise de Vendas em E-commerce**
   
-Projeto de análise exploratória de dados simulados de vendas com Python e Power BI, gerando insights sobre estoque, marketing e sazonalidade.
+Projeto de análise exploratória de dados simulados de vendas com Python, gerando insights sobre estoque, marketing e sazonalidade.
 
 - **Password Generator**
   
