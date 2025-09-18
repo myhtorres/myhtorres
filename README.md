@@ -31,13 +31,16 @@ Tenho experiência prática em Python, SQL, ETL/ELT e Power BI, além de atuaç�
 
 ### 📊 Projetos em Destaque  
 
-**Análise de Vendas em E-commerce**
+- **Análise de Vendas em E-commerce**
+  
 Projeto de análise exploratória de dados simulados de vendas com Python e Power BI, gerando insights sobre estoque, marketing e sazonalidade.
 
-**Password Generator**
+- **Password Generator**
+  
 Gerador de senhas seguras com parâmetros configuráveis.
 
-**Análise de Traduções (2022–2025)**
+- **Análise de Traduções (2022–2025)**
+  
 Consolidação de planilhas de traduções (2022–2025) com tratamento em Python e carregamento em PostgreSQL para consultas SQL e análises de produtividade.
 
 + Veja meu portfólio completo (https://github.com/myhtorres/Portfolio)
