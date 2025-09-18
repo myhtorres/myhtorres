@@ -9,11 +9,11 @@ Tenho experiência prática em Python, SQL, ETL/ELT e Power BI, além de atuaç�
   
 
 **Atualmente, domino e utilizo**:  
-**Programação e Dados**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL, MySQL, SQL Server, Oracle)
-**Business Intelligence**: Power BI (DAX, Power Query, OLAP, KPIs), Tableau, Looker Studio, Metabase
-**Engenharia de Dados**: ETL/ELT, Data Warehouse, Data Lake, BigQuery, Spark/PySpark, Airflow
-**Automação e Integrações**: Power Automate, APIs, ERP, CRM (Salesforce)
-**Outros**: Excel Avançado (Power Query, Tabelas Dinâmicas, VBA, Power Pivot), Git/GitHub, Scrum, Kanban
+- **Programação e Dados**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL, MySQL, SQL Server, Oracle)
+- **Business Intelligence**: Power BI (DAX, Power Query, OLAP, KPIs), Tableau, Looker Studio, Metabase
+- **Engenharia de Dados**: ETL/ELT, Data Warehouse, Data Lake, BigQuery, Spark/PySpark, Airflow
+- **Automação e Integrações**: Power Automate, APIs, ERP, CRM (Salesforce)
+- **Outros**: Excel Avançado (Power Query, Tabelas Dinâmicas, VBA, Power Pivot), Git/GitHub, Scrum, Kanban
 
 ---
 
