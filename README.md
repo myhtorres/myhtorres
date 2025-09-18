@@ -4,8 +4,10 @@
 📍 São Paulo, Brasil  
 ---
 
-Sou profissional de Dados e Business Intelligence, formada em Análise e Desenvolvimento de Sistemas e atualmente pós-graduanda em Análise de Dados.
+<p align="justify">
+Sou profissional de Dados e Business Intelligence, formada em Análise e Desenvolvimento de Sistemas e atualmente pós-graduanda em Análise de Dados.  
 Tenho experiência prática em Python, SQL, ETL/ELT e Power BI, além de atuação com dashboards, governança de dados, automação de processos e metodologias ágeis. Meu objetivo é transformar dados em insights que apoiem decisões estratégicas e gerem impacto real no negócio.
+</p>
   
 
 **Atualmente, domino e utilizo**:  
