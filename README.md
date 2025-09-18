@@ -6,10 +6,9 @@
 
 Sou profissional de Dados e Business Intelligence, formada em Análise e Desenvolvimento de Sistemas e atualmente pós-graduanda em Análise de Dados.
 Tenho experiência prática em Python, SQL, ETL/ELT e Power BI, além de atuação com dashboards, governança de dados, automação de processos e metodologias ágeis. Meu objetivo é transformar dados em insights que apoiem decisões estratégicas e gerem impacto real no negócio.
+  
 
-Minhas habilidades combinam **pensamento analítico** e **design de informação**, aplicados desde a coleta e tratamento de dados até a entrega final de insights para tomada de decisão.  
-
-Atualmente, domino e utilizo:  
+**Atualmente, domino e utilizo**:  
 **Programação e Dados**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL, MySQL, SQL Server, Oracle)
 **Business Intelligence**: Power BI (DAX, Power Query, OLAP, KPIs), Tableau, Looker Studio, Metabase
 **Engenharia de Dados**: ETL/ELT, Data Warehouse, Data Lake, BigQuery, Spark/PySpark, Airflow
